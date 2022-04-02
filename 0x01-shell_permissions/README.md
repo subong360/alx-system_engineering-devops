@@ -1,1 +1,2 @@
-the shell permission gives access to each scripts
+describing what each script is doing
+
